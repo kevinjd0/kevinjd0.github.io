@@ -3,6 +3,6 @@
         <h1>kevinjd0.github.io</h1>
     </a>
 </div>
-### Lab 1: Using GitHub,displaying web pages,using Jekyll and Markdown.
+Lab 1: Using GitHub,displaying web pages,using Jekyll and Markdown.
 
 ## This Lab is a part of F28WP-Web Programming
