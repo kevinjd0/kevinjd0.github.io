@@ -4,19 +4,19 @@ body {
 }
 h1 {
  font-size: 3em;
- font-family:'Helvetica', 'Arial', 'Sans-Serif';
+ font-family:'Monaco', 'Lucida Console', 'Monospace';
 }
 p {
  font-size: 2em;
  line-height: 1.8em;
- color: #3bd1c9;
+ color: #1d40a8;
 }
 footer {
  border-top: 1px solid #d5d5d5;
  font-size: .8em;
 }
 nav ul, footer ul {
- font-family:'Monaco', 'Lucida Console', 'Monospace';
+ font-family:'Helvetica', 'Arial', 'Sans-Serif';
  padding: 0px;
  list-style: none;
  font-weight: bold;
