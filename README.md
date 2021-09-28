@@ -6,3 +6,4 @@
 Lab 1: Using GitHub,displaying web pages,using Jekyll and Markdown.
 
 ## This Lab is a part of F28WP-Web Programming
+<img style="align-items: right;" src="../images/Development-Frameworks-846x697.jpg" alt="Web Development Logo" width="400px">
