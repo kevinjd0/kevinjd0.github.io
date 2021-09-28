@@ -11,7 +11,12 @@ p {
  line-height: 1.8em;
  color: #1d40a8;
 }
-footer {
+li {
+ font-family:'Helvetica', 'Arial', 'Sans-Serif';
+ font-size: 1.5em;
+ color: #244c96;
+}
+ footer {
  border-top: 1px solid #d5d5d5;
  font-size: .8em;
 }
